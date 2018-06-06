@@ -23,3 +23,7 @@
       color: grey; 
     }
   } 
+
+    .template {
+    display: none;
+  }
